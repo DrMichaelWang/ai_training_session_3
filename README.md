@@ -5,6 +5,7 @@ https://github.com/DrMichaelWang/ai_training_session_3
 
 ## Code Scripts:
 philtech_session3_exercise.py
+
 philtech_session3_solution.py
 
 ## Example PDF file:
